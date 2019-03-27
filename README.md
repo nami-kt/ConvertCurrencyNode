@@ -1,2 +1,0 @@
-# ConvertCurrencyNode
-Created with CodeSandbox
